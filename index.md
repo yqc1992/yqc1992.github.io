@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: false
-alt_title: "站在巨人的肩膀上看世界"
+alt_title: "愿一切为之努力的事情最后皆有所成"
 sub_title: ""
 image: /images/BG.jpg
 ---
